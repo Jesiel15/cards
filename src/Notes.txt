@@ -1,0 +1,9 @@
+Sites usados nesse projeto:
+https://www.youtube.com/watch?v=7A4UQGrFU9Q
+https://react-bootstrap.github.io/components/cards/
+
+
+Bibliotecas instaladas nesse projeto:
+https://react-bootstrap.github.io/getting-started/introduction/ { RETIRADO }
+
+npm install --save styled-components

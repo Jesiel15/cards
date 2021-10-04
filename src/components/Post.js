@@ -1,7 +1,7 @@
 import React from 'react';
 import Comment from './Comment';
 
-export default class App extends React.Component {
+export default class Post extends React.Component {
   constructor(props) {
     super(props);
 
