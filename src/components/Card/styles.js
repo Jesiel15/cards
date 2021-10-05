@@ -2,6 +2,7 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
   background-color: #00ffff;
+  border-radius: 5px;
 `;
 
 export const ContainerBody = styled.h1`
@@ -10,8 +11,7 @@ export const ContainerBody = styled.h1`
 `;
 
 export const Text = styled.h1`
-  color: #000;
-  text-shadow: 5px 2px 4px gray;
+  color: #363636;
   font-size: ${props => `${props.fontSize}px`};
   padding-left: 10px;
 `;
