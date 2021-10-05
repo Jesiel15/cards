@@ -4,6 +4,8 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
   background-color: #ff5;
+  border-radius: 5px;
+
 `;
 export const DropdownButton = styled.div`
   position: relative;
@@ -13,6 +15,7 @@ export const DropdownButton = styled.div`
 export const Button = styled.button`
   padding: 10;
   border: 0;
+  border-radius: 5px;
   background-color: #ff5;
   color: #333;
   cursor: pointer;
