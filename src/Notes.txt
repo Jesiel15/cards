@@ -2,6 +2,8 @@ Sites usados nesse projeto:
 https://www.youtube.com/watch?v=7A4UQGrFU9Q
 https://react-bootstrap.github.io/components/cards/
 
+(DropdownButton)
+https://codedaily.io/tutorials/Create-a-Dropdown-in-React-that-Closes-When-the-Body-is-Clicked
 
 Bibliotecas instaladas nesse projeto:
 https://react-bootstrap.github.io/getting-started/introduction/ { RETIRADO }
